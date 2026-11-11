@@ -28,3 +28,7 @@
 ## Запуск проекта
 
 Откройте файл `index.html` в браузере.
+
+## Ссылка на репозиторий
+
+https://github.com/BogdanGusev-pavv/ono-tebe-nado-ad
